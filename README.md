@@ -7,6 +7,7 @@
 - [installation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 ### Column Layout
+![12 screen parts](12parts.png)
 - screen is divided into 12 units of column
 - 6 screen-size breakpoints are defined.
   ![column layout image](column.png)
