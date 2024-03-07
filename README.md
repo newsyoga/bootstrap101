@@ -9,7 +9,7 @@
 ### Column Layout
 - screen is divided into 12 units of column
 - 6 screen-size breakpoints are defined.
-  
+  ![column layout image](column.png)
   | class | column width | screen size |
   | --- | --- | --- |
   | col-xxl-1 | 1 | xxl |
