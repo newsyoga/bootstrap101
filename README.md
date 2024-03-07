@@ -54,6 +54,7 @@
       * `align-items-center` at center vertically.
       * `align-items-end` at the bottom.
     * ##### horizontally align
+      ![justify-eg](justify.png)
       * `justify-content-start` at start horizontally.
       * `justify-content-center` at center horizontally.
       * `justify-content-end` at end horizontally.
