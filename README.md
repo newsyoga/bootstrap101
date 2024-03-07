@@ -1,7 +1,7 @@
-# jio.com clone using BOOTSTRAP
+# [amazon.com](https://www.amazon.com/) clone using BOOTSTRAP
 
 ## Bootstrap basics notes
-
+* bootstrap has `classes` like `row` and `col` by default. [here's list](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
 
 ### installation
 - [installation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
@@ -35,3 +35,25 @@
   | `.container-fluid`      | 100%          | 100%           | 100%          | 100%             | 100%              | 100% |
 
 ### Grid (row) layout
+
+  * `col-4` class consumes 4 units of 12.
+  * `col-6` class consumes 6 units of 12.
+  * `col` class consumes remaining units of 12.
+
+  * `col-md-4`
+    * class consumes 4 units of 12.
+    * consumed `full-width` inside `md-screen-size` .
+  * `col-md-4` + `col-lg-8`
+    * class consumes 8 units between lg & xxl screen.
+    * consumes 4 units between md & lg
+    * but consumed `full-width` inside `md-screen-size` .
+  * #### align Vertically
+    * ##### vertically align
+      ![align-items-eg](alignitems.png)
+      * `align-items-start` at top vertically.
+      * `align-items-center` at center vertically.
+      * `align-items-end` at the bottom.
+    * ##### horizontally align
+      * `justify-content-start` at start horizontally.
+      * `justify-content-center` at center horizontally.
+      * `justify-content-end` at end horizontally.
