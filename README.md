@@ -1,8 +1,12 @@
-# Bootstrap basics
-## installation
+# jio.com clone using BOOTSTRAP
+
+## Bootstrap basics notes
+
+
+### installation
 - [installation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
-## Grid Layout
+### Column Layout
 - screen is divided into 12 units of column
 - 6 screen-size breakpoints are defined.
   
@@ -15,7 +19,7 @@
   | col-sm-6 | 5 | sm |
   | col-xs-12 | 6 | xs |
 
-## container Layout
+### container Layout (column)
 
   * container class, decides elements behaviour.
   * example : `container-md` full-width: for-small-screen 
@@ -30,4 +34,4 @@
   | `.container-xxl`        | 100%          | 100%           | 100%          | 100%             | 100%              | - |
   | `.container-fluid`      | 100%          | 100%           | 100%          | 100%             | 100%              | 100% |
 
-## Grid (row)
+### Grid (row) layout
