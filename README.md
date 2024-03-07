@@ -17,6 +17,9 @@
 
 ## container Layout
 
+  * container class, decides elements behaviour.
+  * example : `container-md` full-width: for-small-screen 
+
   | null |<br>Extra small <576px | Small ≥576px | Medium ≥768px | Large ≥992px | X-Large ≥1200px | XX-Large ≥1400px |
   | --- | --- | --- | --- | --- | --- | --- |
   | `.container`            | 100%          | -          | -         | -            | -            | - |
@@ -26,5 +29,5 @@
   | `.container-xl`         | 100%          | 100%           | 100%          | 100%             | -            | - |
   | `.container-xxl`        | 100%          | 100%           | 100%          | 100%             | 100%              | - |
   | `.container-fluid`      | 100%          | 100%           | 100%          | 100%             | 100%              | 100% |
-  
-  example : `container-md` full-width: for-small-screen 
+
+## Grid (row)
