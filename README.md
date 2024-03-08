@@ -84,4 +84,6 @@
     * #### gutter-y
    
   * ### [buttons](https://getbootstrap.com/docs/5.3/components/buttons/)
-    *  
+    * different classes for buttons is available, please check website
+  * ### [cards](https://getbootstrap.com/docs/4.0/components/card/)
+    ![bootstrap Card](autodraw/bootstrapCard.png)
