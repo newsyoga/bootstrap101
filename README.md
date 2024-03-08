@@ -60,3 +60,22 @@
       * `justify-content-start` at start horizontally.
       * `justify-content-center` at center horizontally.
       * `justify-content-end` at end horizontally.
+  * ### Margins & padding
+    | notation | meaning |
+    | --- | --- |
+    |`m`| margin |
+    |`p`| padding |
+
+    | sub-notation | meaning |
+    | --- | --- |
+    |`t`| top |
+    |`b`| bottom |
+    |`l`| left |
+    |`r`| right |
+    |`x`| x (left & right) |
+    |`y`| y (top & bottom) |
+    |blank| all sides |
+
+    example: `my-5`: margin-top-bottom-5
+    
+  * ### gutters
