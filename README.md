@@ -79,3 +79,6 @@
     example: `my-5`: margin-top-bottom-5
     
   * ### gutters
+    ![gutter bootstrap](autodraw/GUTTER.png)
+    * #### gutter-x
+    * #### gutter-y
