@@ -45,6 +45,7 @@
     * class consumes 4 units of 12.
     * consumed `full-width` inside `md-screen-size` .
   * `col-md-4` + `col-lg-8`
+  ![col-4 bootstrap](autodraw/multicol.png)
     * class consumes 8 units between lg & xxl screen.
     * consumes 4 units between md & lg
     * but consumed `full-width` inside `md-screen-size` .
