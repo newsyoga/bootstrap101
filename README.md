@@ -40,7 +40,7 @@
   * `col-4` class consumes 4 units of 12.
   * `col-6` class consumes 6 units of 12.
   * `col` class consumes remaining units of 12.
-
+  ![col-4 bootstrap](autodraw/md-col.png)
   * `col-md-4`
     * class consumes 4 units of 12.
     * consumed `full-width` inside `md-screen-size` .
