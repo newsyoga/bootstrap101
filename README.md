@@ -23,7 +23,7 @@
 ### container Layout (column)
 
   * container class, decides elements behavior.
-  * Example : `container-md` full-width: for-small-screen 
+  * Example: `container-md` full-width: for-small-screen 
 
   | null |<br>Extra small <576px | Small ≥576px | Medium ≥768px | Large ≥992px | X-Large ≥1200px | XX-Large ≥1400px |
   | --- | --- | --- | --- | --- | --- | --- |
@@ -82,3 +82,6 @@
     ![gutter bootstrap](autodraw/GUTTER.png)
     * #### gutter-x
     * #### gutter-y
+   
+  * ### [buttons](https://getbootstrap.com/docs/5.3/components/buttons/)
+    *  
